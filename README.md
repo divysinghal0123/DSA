@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/divysinghal0123/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/divysinghal0123/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/divysinghal0123/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divysinghal0123/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/divysinghal0123/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/divysinghal0123/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/divysinghal0123/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
@@ -94,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/divysinghal0123/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/divysinghal0123/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
