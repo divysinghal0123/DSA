@@ -15,20 +15,22 @@ public:
         // }
         // return -1;
 
-        int n = nums.size(); // Boyer - Moore Algorithm.
-        int count = 0;
-        int candidate = 0;
-        int i;
-        for(i=0;i<n;i++){
-            if(count == 0){
-                candidate =  nums[i];
-            }
-            if(nums[i] == candidate){
-                count++;
-            }else{
-                count--;
-            }
+       // Boyer - Moore Algorithm 
+
+       int n = nums.size();
+       int count = 0;
+       int candidate = 0;
+       int i;
+       for(i=0;i<n;i++){
+        if(count == 0){
+            candidate = nums[i];
         }
-        return candidate;
+        if(nums[i] == candidate){
+            count++;
+        }else{
+            count--;
+        }
+       }
+       return candidate;
     }
 };
