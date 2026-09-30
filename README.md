@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/divysinghal0123/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/divysinghal0123/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/divysinghal0123/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/divysinghal0123/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/divysinghal0123/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/divysinghal0123/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divysinghal0123/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/divysinghal0123/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
