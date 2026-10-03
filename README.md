@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divysinghal0123/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/divysinghal0123/DSA/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/divysinghal0123/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/divysinghal0123/DSA/tree/master/0169-majority-element) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/divysinghal0123/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/divysinghal0123/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/divysinghal0123/DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
