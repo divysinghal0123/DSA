@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/divysinghal0123/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/divysinghal0123/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divysinghal0123/DSA/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/divysinghal0123/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/divysinghal0123/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divysinghal0123/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/divysinghal0123/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
